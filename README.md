@@ -51,7 +51,7 @@ restaurant_app/
 
 - Python 3.x
 - Tkinter - GUI framework
-- SQLite - Database
+- MySQL - Database
 - pytest - Testing framework
 
 ## Instalasi
